@@ -1,0 +1,6 @@
+test
+======
+
+:hide-toc:
+
+.. [page contents]

@@ -40,6 +40,23 @@ html_theme_options = {
     "sidebar_hide_name": False,
 }
 
+# 控制使用左右箭头浏览文档
 html_theme_options = {
-    "navigation_with_keys": False,
+    "navigation_with_keys": True,
 }
+
+
+
+# 编辑按钮
+# 唯一支持的值是"edit"（默认值）和None.
+'''
+在使用GitHub存储库作为源，
+在Read the Docs上生成文档时自动添加。
+'''
+html_theme_options = {
+    "top_of_page_button": None,
+}
+
+# 代码块样式
+# pygments_style = "sphinx"
+# pygments_dark_style = "monokai"
