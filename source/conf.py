@@ -37,9 +37,9 @@ html_static_path = ['_static']
 html_title = "Notebook"
 
 html_theme_options = {
-    "sidebar_hide_name": True,
+    "sidebar_hide_name": False,
 }
 
 html_theme_options = {
-    "navigation_with_keys": True,
+    "navigation_with_keys": False,
 }
