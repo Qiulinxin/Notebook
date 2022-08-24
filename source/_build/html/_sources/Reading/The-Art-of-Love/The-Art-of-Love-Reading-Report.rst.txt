@@ -1,19 +1,5 @@
-《爱的艺术》
-============
-
-.. toctree:: 
-    :maxdepth: 1
-    :caption: Contents
-
-    The-Art-of-Love-Cha-01
-    The-Art-of-Love-Cha-02-Sec-01
-    The-Art-of-Love-Cha-02-surplus
-    The-Art-of-Love-Cha-03
-    The-Art-of-Love-Cha-04
-.. 
-
-读书报告
---------
+《爱的艺术》-读书报告
+=====================
 
 .. _1-前言:
 
@@ -39,13 +25,13 @@
 
 从8月1日开始到8月23日完成全部章节的笔记摘抄，整个项目大概3.9万字。做这件事实际只用了14天，中间有9天是处于旷工状态（具体请见下图）。
 
-.. figure:: img/Gantt.jpg
+.. figure:: D:\Git\StudyNotes\Reading\The-Art-of-Love\img\Gantt.jpg
    :alt: 
 
 作者是艾瑞克·弗洛姆（Erich
 Fromm），详细讲解了“爱”是什么和怎样“爱”，把人们认为想当然的问题做了一个详细的论述，目录大纲请见下图。
 
-.. figure:: img/directoryOutline.jpg
+.. figure:: D:\Git\StudyNotes\Reading\The-Art-of-Love\img\directoryOutline.jpg
    :alt: 
 
 《爱的艺术》首次出版于1956年，我读的版本是由李健鸣译，上海译文出版社所出版。
