@@ -9,3 +9,4 @@ Reading
    :maxdepth: 1
    
    The-Art-of-Love/index
+   The-Communist-Manifesto/index
